@@ -1,4 +1,6 @@
-ModeloDemocraticoAnarquista
+Modelo Democrático Anarquista
 ===========================
 
-Projeto de modelo democrático baseado em federalismo e auto gestão
+Esse projeto github não tem código, somente uma wiki.
+
+Por favor, refira a [https://github.com/mvallebr/ModeloDemocraticoAnarquista/wiki|wiki]
