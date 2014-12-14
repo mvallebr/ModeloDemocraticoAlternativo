@@ -1,6 +1,6 @@
-Modelo Democrático Anarquista
+Modelo Democrático Alternativo
 ===========================
 
 Esse projeto github não tem código, somente uma wiki.
 
-Por favor, refira a [wiki](https://github.com/mvallebr/ModeloDemocraticoAnarquista/wiki)
+Por favor, refira a [wiki](https://github.com/mvallebr/ModeloDemocraticoAlternativo/wiki)
